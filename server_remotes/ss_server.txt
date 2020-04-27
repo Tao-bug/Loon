@@ -1,3 +1,4 @@
 # SS 格式: 节点名称 = 协议，服务器地址，服务器端口，加密协议，密码
-1 = Shadowsocks, 1.2.3.4, 443, aes-128-gcm, “password”
-2 = Shadowsocks, 1.2.3.4, 443, aes-128-gcm, “password”
+# 1 = Shadowsocks, 1.2.3.4, 443, aes-128-gcm, “password”
+
+白嫖ss = Shadowsocks,34.92.102.215,17431,chacha20-ietf-poly1305,”3nHy7SdjO8cU“
