@@ -1,2 +1,2 @@
 # SS 格式: 节点名称 = 协议，服务器地址，服务器端口，加密协议，密码
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozbkh5N1Nkak84Y1U=@34.92.102.215:17431/?outline=1
+c5cc37a4beca1bd5eb2d3ae4cda38496 = Shadowsocks,34.92.102.215,17431,chacha20-ietf-poly1305,”3nHy7SdjO8cU“
