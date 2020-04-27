@@ -1,0 +1,3 @@
+# SSR 格式：名称=协议类型,地址,端口,加密方式,密码,协议类型,{协议参数},混淆类型,{混淆参数}
+3 = ShadowsocksR, 1.2.3.4, 443, aes-256-cfb,”password”,auth_aes128_md5,{},tls1.2_ticket_auth,{}
+4 = ShadowsocksR, 1.2.3.4, 10076, aes-128-cfb,”password”,auth_aes128_md5,{},tls1.2_ticket_auth,{}
