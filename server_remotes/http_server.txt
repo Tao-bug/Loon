@@ -1,4 +1,4 @@
 # http 格式 (不支持 username, password)
 
-🎵网易云音乐可用 = http,music.desperadoj.com, 30002 , username=Netease Music, password=none, fast-open=false, udp-relay=false
-🇸🇬一键连1= https, a1.ap.fastqvpn.com, 29980, username= 301905326796439552, password= c2bc7d7a-a4ce-46e8-b8b5-92f5627e114f, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false
+🎵网易云音乐可用0 = http,music.desperadoj.com, 30002, username=Netease Music, password=none, fast-open=false, udp-relay=false
+🎵网易云音乐可用1 = http,music.desperadoj.com, 30000, username=Netease Music, password=none, fast-open=false, udp-relay=false
