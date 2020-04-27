@@ -1,4 +1,1 @@
-# http 格式 (不支持 username, password)
-# ProxyHTTP = http, 1.2.3.4, 8888
-🎵网易云音乐可用 = http,music.desperadoj.com, 30002 , username=Netease Music, password=none, fast-open=false, udp-relay=false
-🇸🇬一键连1= http, a1.ap.fastqvpn.com, 29980, username= 301905326796439552, password= c2bc7d7a-a4ce-46e8-b8b5-92f5627e114f, over-tls=true, tls-verification=true,tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false
+IyBodHRwIOagvOW8jyAo5LiN5pSv5oyBIHVzZXJuYW1lLCBwYXNzd29yZCkKCvCfjrXnvZHmmJPkupHpn7PkuZDlj6/nlKggPSBodHRwLG11c2ljLmRlc3BlcmFkb2ouY29tLCAzMDAwMiAsIHVzZXJuYW1lPU5ldGVhc2UgTXVzaWMsIHBhc3N3b3JkPW5vbmUsIGZhc3Qtb3Blbj1mYWxzZSwgdWRwLXJlbGF5PWZhbHNlCvCfh7jwn4es5LiA6ZSu6L+eMT0gaHR0cCwgYTEuYXAuZmFzdHF2cG4uY29tLCAyOTk4MCwgdXNlcm5hbWU9IDMwMTkwNTMyNjc5NjQzOTU1MiwgcGFzc3dvcmQ9IGMyYmM3ZDdhLWE0Y2UtNDZlOC1iOGI1LTkyZjU2MjdlMTE0Ziwgb3Zlci10bHM9dHJ1ZSwgdGxzLXZlcmlmaWNhdGlvbj10cnVlLHRscy1ob3N0PWExLmFwLmZhc3RxdnBuLmNvbSwgZmFzdC1vcGVuPWZhbHNlLCB1ZHAtcmVsYXk9ZmFsc2U=
