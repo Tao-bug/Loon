@@ -2,3 +2,4 @@
 
 🎵网易云音乐可用0 = http,music.desperadoj.com, 30003, username=Netease Music, password=none, fast-open=false, udp-relay=false
 🎵网易云音乐可用1 = http, taron.top, 100
+🎵网易云音乐可用2 = http, 149.248.51.118.19980
