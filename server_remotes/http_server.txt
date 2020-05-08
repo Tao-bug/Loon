@@ -1,6 +1,4 @@
 # http 格式 (不支持 username, password)
 
-🎵网易云音乐可用0 = http,music.desperadoj.com, 30003, username=Netease Music, password=none, fast-open=false, udp-relay=false
+🎵网易云音乐可用0 = http,207.148.98.161.ipssh.net, 1248, username=Netease Music, password=none, fast-open=false, udp-relay=false
 🎵网易云音乐可用1 = http, taron.top, 100
-🎵网易云音乐可用2 = http, 149.248.51.118, 19980
-🎵网易云音乐可用3 = http, 137.220.215.54, 8080, fast-open=false, udp-relay=false
